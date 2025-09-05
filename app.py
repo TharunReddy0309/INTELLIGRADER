@@ -217,7 +217,7 @@ else:
                         while True:
                             try:
                                 response = openai.ChatCompletion.create(
-                                    model="llama3-70b-8192",  
+                                    model="llama-3.1-8b-instant",  
                                     messages=[
                                     {"role": "user", "content":'Explain the following content in a clear, structured, and coherent way.Use sub-topics and headings where appropriate.Break complex ideas into simple parts, give analogies if needed, and maintain logical flow.Avoid skipping steps in the explanation.Instructions (bold for emphasis):- Use sub-topics and headings.- Break complex ideas into simple parts.- Provide analogies where helpful.- Maintain logical flow, no skipping steps.- Output should be beginner-friendly but still thorough. Here is the content:'+cont}
                                 ]   
@@ -241,7 +241,7 @@ else:
                         while True:
                             try:
                                 response = openai.ChatCompletion.create(
-                                    model="llama3-70b-8192",  
+                                    model="llama-3.1-8b-instant",  
                                     messages=[
                                     {"role": "user", "content":'Explain the following content in a clear, structured, and coherent way.Use sub-topics and headings where appropriate.Break complex ideas into simple parts, give analogies if needed, and maintain logical flow.Avoid skipping steps in the explanation.Instructions (bold for emphasis):- Use sub-topics and headings.- Break complex ideas into simple parts.- Provide analogies where helpful.- Maintain logical flow, no skipping steps.- Output should be beginner-friendly but still thorough. Here is the content:'+cont}
                                 ]   
@@ -375,7 +375,7 @@ else:
                                     while True:
                                         try:
                                             response = openai.ChatCompletion.create(
-                                                model="llama3-70b-8192",
+                                                model="llama-3.1-8b-instant",
                                                 messages=messaged,
                                             )
                                             break
@@ -454,7 +454,7 @@ else:
                 while True:
                     try:
                         response = openai.ChatCompletion.create(
-                            model="llama3-70b-8192",
+                            model="llama-3.1-8b-instant",
                             messages=st.session_state['messages'],
                             temperature=temperature,
                             max_tokens=max_tokens
@@ -545,7 +545,7 @@ else:
                         openai.api_key = st.secrets['openai_apikey2']
                         openai.api_base = st.secrets['openai_apibase']
                         response = openai.ChatCompletion.create(
-                        model="llama3-70b-8192",  
+                        model="llama-3.1-8b-instant",  
                         messages = messaged
                         )      
                         ans = response['choices'][0]['message']['content']
@@ -589,7 +589,7 @@ else:
                         openai.api_key = st.secrets['openai_apikey2']
                         openai.api_base = st.secrets['openai_apibase']
                         response = openai.ChatCompletion.create(
-                        model="llama3-70b-8192",  
+                        model="llama-3.1-8b-instant",  
                         messages = messaged
                         )      
                         ans = response['choices'][0]['message']['content']
