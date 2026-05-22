@@ -42,9 +42,9 @@ IntelliGrader leverages a modern, robust technology stack to deliver real-time A
 
 This is just the beginning. The architecture is continuously evolving to support more advanced AI workflows:
 
-- [ ] **LangChain Integration:** Implementing structured, multi-step LLM workflows for deeper reasoning and agentic behaviors.
-- [ ] **Retrieval-Augmented Generation (RAG):** Extending the chatbot and summarizer with semantic search across extensive educational databases.
-- [ ] **Advanced Analytics Dashboard:** Visualizing class-wide performance trends over time.
+-  **LangChain Integration:** Implementing structured, multi-step LLM workflows for deeper reasoning and agentic behaviors.
+-  **Retrieval-Augmented Generation (RAG):** Extending the chatbot and summarizer with semantic search across extensive educational databases.
+-  **Advanced Analytics Dashboard:** Visualizing class-wide performance trends over time.
 
 ---
 
