@@ -1,4 +1,4 @@
-# 🧠 IntelliGrader 
+#  IntelliGrader 
 
 > **🏆 Winner of the Syrotech 2025 Hackathon 🏆**  
 > **Next-Generation AI Education Platform**  
@@ -12,21 +12,21 @@ IntelliGrader is a comprehensive, LLM-powered educational ecosystem designed to 
 
 ---
 
-## ✨ Features
+##  Features
 
-### 🎓 For Students: Adaptive Learning
-- **📑 Smart Summarization:** Automatically breaks down dense study materials and PDFs into easily digestible, simple terms.
-- **💬 24/7 AI Tutor:** An intelligent chatbot available around the clock to clear doubts and explain complex concepts instantly.
-- **🎥 Curated Video Recommendations:** Integrates with the YouTube API to dynamically suggest personalized video lectures based on the student's identified weak areas.
+###  For Students: Adaptive Learning
+- **Smart Summarization:** Automatically breaks down dense study materials and PDFs into easily digestible, simple terms.
+- **24/7 AI Tutor:** An intelligent chatbot available around the clock to clear doubts and explain complex concepts instantly.
+- **Curated Video Recommendations:** Integrates with the YouTube API to dynamically suggest personalized video lectures based on the student's identified weak areas.
 
-### 👨‍🏫 For Teachers: Automated Evaluation
-- **📝 AI-Assisted Grading:** Evaluates answer sheets with high accuracy, functioning perfectly both with and without explicit answer key references.
-- **📊 Comprehensive Insights:** Provides automatic scoring, detailed feedback, and constructive suggestions for individual student improvement.
-- **⏱️ Time Optimization:** Automates the heavy lifting of grading, allowing educators to focus their time on mentoring and guiding students.
+###  For Teachers: Automated Evaluation
+- **AI-Assisted Grading:** Evaluates answer sheets with high accuracy, functioning perfectly both with and without explicit answer key references.
+- **Comprehensive Insights:** Provides automatic scoring, detailed feedback, and constructive suggestions for individual student improvement.
+- **Time Optimization:** Automates the heavy lifting of grading, allowing educators to focus their time on mentoring and guiding students.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 IntelliGrader leverages a modern, robust technology stack to deliver real-time AI capabilities:
 
@@ -38,7 +38,7 @@ IntelliGrader leverages a modern, robust technology stack to deliver real-time A
 
 ---
 
-## 🚀 Roadmap & Future Scope
+##  Roadmap & Future Scope
 
 This is just the beginning. The architecture is continuously evolving to support more advanced AI workflows:
 
@@ -48,5 +48,5 @@ This is just the beginning. The architecture is continuously evolving to support
 
 ---
 
-## 💡 Feedback & Contributions
-I am actively exploring new ways to enhance teaching and learning experiences through AI. If you have thoughts, suggestions, or feedback on how to push this project further, I would love to hear from you!
+## Feedback & Contributions
+We are actively exploring new ways to enhance teaching and learning experiences through AI. If you have thoughts, suggestions, or feedback on how to push this project further, we would love to hear from you!
